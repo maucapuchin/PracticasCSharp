@@ -1,0 +1,6 @@
+c:\users\maucap\documents\visual studio 2015\Projects\BreakWhile\BreakWhile\bin\Debug\BreakWhile.exe.config
+c:\users\maucap\documents\visual studio 2015\Projects\BreakWhile\BreakWhile\bin\Debug\BreakWhile.exe
+c:\users\maucap\documents\visual studio 2015\Projects\BreakWhile\BreakWhile\bin\Debug\BreakWhile.pdb
+c:\users\maucap\documents\visual studio 2015\Projects\BreakWhile\BreakWhile\obj\Debug\BreakWhile.csprojResolveAssemblyReference.cache
+c:\users\maucap\documents\visual studio 2015\Projects\BreakWhile\BreakWhile\obj\Debug\BreakWhile.exe
+c:\users\maucap\documents\visual studio 2015\Projects\BreakWhile\BreakWhile\obj\Debug\BreakWhile.pdb

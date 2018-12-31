@@ -1,0 +1,5 @@
+c:\users\maucap\documents\visual studio 2015\Projects\EstructuraCondicionalIfElse\EstructuraCondicionalIfElse\bin\Debug\EstructuraCondicionalIfElse.exe.config
+c:\users\maucap\documents\visual studio 2015\Projects\EstructuraCondicionalIfElse\EstructuraCondicionalIfElse\bin\Debug\EstructuraCondicionalIfElse.exe
+c:\users\maucap\documents\visual studio 2015\Projects\EstructuraCondicionalIfElse\EstructuraCondicionalIfElse\bin\Debug\EstructuraCondicionalIfElse.pdb
+c:\users\maucap\documents\visual studio 2015\Projects\EstructuraCondicionalIfElse\EstructuraCondicionalIfElse\obj\Debug\EstructuraCondicionalIfElse.exe
+c:\users\maucap\documents\visual studio 2015\Projects\EstructuraCondicionalIfElse\EstructuraCondicionalIfElse\obj\Debug\EstructuraCondicionalIfElse.pdb

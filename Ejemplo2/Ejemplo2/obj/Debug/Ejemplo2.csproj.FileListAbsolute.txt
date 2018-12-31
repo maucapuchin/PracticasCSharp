@@ -1,0 +1,9 @@
+c:\users\maucap\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+c:\users\maucap\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csprojResolveAssemblyReference.cache
+c:\users\maucap\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.Form1.resources
+c:\users\maucap\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.Properties.Resources.resources
+c:\users\maucap\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csproj.GenerateResource.Cache
+c:\users\maucap\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe
+c:\users\maucap\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.pdb
+c:\users\maucap\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.exe
+c:\users\maucap\documents\visual studio 2015\Projects\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.pdb

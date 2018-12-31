@@ -1,0 +1,5 @@
+c:\users\maucap\documents\visual studio 2015\Projects\BucleForEach\BucleForEach\bin\Debug\BucleForEach.exe.config
+c:\users\maucap\documents\visual studio 2015\Projects\BucleForEach\BucleForEach\bin\Debug\BucleForEach.exe
+c:\users\maucap\documents\visual studio 2015\Projects\BucleForEach\BucleForEach\bin\Debug\BucleForEach.pdb
+c:\users\maucap\documents\visual studio 2015\Projects\BucleForEach\BucleForEach\obj\Debug\BucleForEach.exe
+c:\users\maucap\documents\visual studio 2015\Projects\BucleForEach\BucleForEach\obj\Debug\BucleForEach.pdb

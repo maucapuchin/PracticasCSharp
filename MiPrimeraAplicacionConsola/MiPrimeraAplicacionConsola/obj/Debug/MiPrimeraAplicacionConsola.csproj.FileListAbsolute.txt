@@ -1,0 +1,6 @@
+c:\users\maucap\documents\visual studio 2015\Projects\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\bin\Debug\MiPrimeraAplicacionConsola.exe.config
+c:\users\maucap\documents\visual studio 2015\Projects\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\bin\Debug\MiPrimeraAplicacionConsola.exe
+c:\users\maucap\documents\visual studio 2015\Projects\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\bin\Debug\MiPrimeraAplicacionConsola.pdb
+c:\users\maucap\documents\visual studio 2015\Projects\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\obj\Debug\MiPrimeraAplicacionConsola.csprojResolveAssemblyReference.cache
+c:\users\maucap\documents\visual studio 2015\Projects\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\obj\Debug\MiPrimeraAplicacionConsola.exe
+c:\users\maucap\documents\visual studio 2015\Projects\MiPrimeraAplicacionConsola\MiPrimeraAplicacionConsola\obj\Debug\MiPrimeraAplicacionConsola.pdb

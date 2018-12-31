@@ -1,0 +1,5 @@
+c:\users\maucap\documents\visual studio 2015\Projects\MiConstructor\MiConstructor\bin\Debug\MiConstructor.exe.config
+c:\users\maucap\documents\visual studio 2015\Projects\MiConstructor\MiConstructor\bin\Debug\MiConstructor.exe
+c:\users\maucap\documents\visual studio 2015\Projects\MiConstructor\MiConstructor\bin\Debug\MiConstructor.pdb
+c:\users\maucap\documents\visual studio 2015\Projects\MiConstructor\MiConstructor\obj\Debug\MiConstructor.exe
+c:\users\maucap\documents\visual studio 2015\Projects\MiConstructor\MiConstructor\obj\Debug\MiConstructor.pdb

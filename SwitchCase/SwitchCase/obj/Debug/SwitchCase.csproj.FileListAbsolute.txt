@@ -1,0 +1,6 @@
+c:\users\maucap\documents\visual studio 2015\Projects\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe.config
+c:\users\maucap\documents\visual studio 2015\Projects\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe
+c:\users\maucap\documents\visual studio 2015\Projects\SwitchCase\SwitchCase\bin\Debug\SwitchCase.pdb
+c:\users\maucap\documents\visual studio 2015\Projects\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csprojResolveAssemblyReference.cache
+c:\users\maucap\documents\visual studio 2015\Projects\SwitchCase\SwitchCase\obj\Debug\SwitchCase.exe
+c:\users\maucap\documents\visual studio 2015\Projects\SwitchCase\SwitchCase\obj\Debug\SwitchCase.pdb
